@@ -6,4 +6,10 @@
     <RootNamespace>_2021_12_14_Szuletesek</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="vas.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
