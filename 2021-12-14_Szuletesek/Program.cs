@@ -13,7 +13,8 @@ namespace _2021_12_14_Szuletesek
             {
                 személyek.Add(new Személy(sor));
             }
-
+            személyek[0].CdEll()
+            Console.WriteLine();
         }
     }
 }
